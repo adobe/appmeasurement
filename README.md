@@ -15,7 +15,7 @@ AppMeasurement is a stand alone JavaScript library used to implement Adobe Analy
 
 [1]: https://experienceleague.adobe.com/docs/experience-platform/edge/home.html
 [2]: https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/analytics/overview.html
-[3]: https://git.corp.adobe.com/analytics-data-collection/appmeasurement/releases/latest
+[3]: https://github.com/adobe/appmeasurement/releases/latest
 [4]: https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html
 [5]: https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf-requirements.html
 [6]: https://experienceleague.adobe.com/docs/analytics/implementation/vars/integrate.html
