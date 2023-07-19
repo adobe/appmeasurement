@@ -2,7 +2,9 @@
 
 >ℹ️ For new implementations we recommend using [Adobe Experience Platform Web SDK][1] which can be used to collect data for Analytics as well as other Adobe solutions and even third parties.
 
-AppMeasurement is a stand alone JavaScript library used to implement Adobe Analytics when not using the [Adobe Tag Management Analytics Extension][2]. You can download the [latest release][3] of AppMeasurement to get started.
+AppMeasurement is a stand-alone JavaScript library used to implement Adobe Analytics. AppMeasurement is primarily used by businesses and website owners to track and analyze user interactions and behavior on their websites or mobile applications. The tool helps you to understand user engagement, measure the effectiveness of marketing campaigns, and make data-driven decisions to optimize online presence and improve performance.
+
+To get started you can either use the [Adobe Tag Management Analytics Extension][2] or download the [latest release][3] of the library from this repository.
 
 ## Source Files
 
