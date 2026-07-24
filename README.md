@@ -21,4 +21,5 @@ To get started you can either use the [Adobe Tag Management Analytics Extension]
 [4]: https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html
 [5]: https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf-requirements.html
 [6]: https://experienceleague.adobe.com/docs/analytics/implementation/vars/integrate.html
-[7]: https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html
+[7]: https://experienceleague.adobe.com/en/docs/id-service/using/home
+     
